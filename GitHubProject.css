@@ -24,8 +24,9 @@
     text-decoration: none;
 }
 
-.linkstyle {
+.linkStyle {
     text-decoration: none;
+    color: black;
 }
 
 .linkStyle:hover {
